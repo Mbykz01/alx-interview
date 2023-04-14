@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""below is the stats module
+"""stats module
 """
 from sys import stdin
 
@@ -10,7 +10,7 @@ size = 0
 
 
 def print_info():
-    """it print_info method print needed info
+    """print_info method print needed info
     Args:
         codes (dict): code status
         size (int): size of files
